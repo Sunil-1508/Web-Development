@@ -1,0 +1,11 @@
+
+
+for j in range(0,10):
+    n=j
+    a=1
+    b=1
+    k=n
+    for i in range(1,n+1):
+        a*=(i+k)
+        b*=(i+1)
+    print(a//b," ")
