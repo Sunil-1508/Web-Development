@@ -11,3 +11,10 @@ $("h1").css("color","red")
 $("a").attr("href","https://www.githbbbbbbu.com");
 
 $("h1").html("<b><i>hello moto</i></b>");
+
+
+$("h1").addClass("small")
+
+$("h1").removeClass("big")
+
+$("a").addClass("link")

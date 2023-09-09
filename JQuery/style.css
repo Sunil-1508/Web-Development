@@ -2,3 +2,24 @@ h1{
     color: red;
     background-color: green;
 }
+
+
+.big{
+    font-size: larger;
+    font-family: cursive;
+    color: black;
+    background-color: aqua;
+}
+
+
+.small{
+    font-size: smaller;
+    color: yellow !important;
+    background-color: black;
+}
+
+
+.link{
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
