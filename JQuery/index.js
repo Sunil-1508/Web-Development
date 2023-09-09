@@ -6,6 +6,8 @@
 // document.getElementsByTagName("h1")[0].style.color="blue";
 
 
-$("h1").css("color","pink")
+$("h1").css("color","red")
 
-$("a").attr("href","https://www.github.com");
+$("a").attr("href","https://www.githbbbbbbu.com");
+
+$("h1").html("<b><i>hello moto</i></b>");
