@@ -29,5 +29,5 @@ $(document).keypress(function(event){
 })
 
 $("h2").on('mouseover',function(){
-    $("h2").css("color","skyblue")
+    $("h2").css("color","skyblue").text("animal")
 })
