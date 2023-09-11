@@ -79,7 +79,8 @@ function checkAnswer(currentLevel){
         console.log("wrong");
         $("h1").text("Game Over");
         $(".btn").css("backgroundColor","gray");
-        $(document).click(false);
+        
+
 
         setTimeout(function(){
             window.location.href="./index.html";
