@@ -352,14 +352,24 @@ html{
 .row p{
   color: rgba(125, 198, 248, 0.86);
 }
+.content-download a{
+  color: black !important;
+}
 .btn{
-  color: white !important;
+  background-color: #00ff04 !important;
+  color: rgb(0, 0, 0) !important;
+  border-color: black !important;
+}
+.btn:hover{
+  background-color: #16b118 !important;
+  color: rgb(0, 0, 0) !important;
+  border-color: black !important;
 }
 .form-label{
-  color: #c0c0c0;
+  color: #ffffff;
 }
 .copy-rights{
-  color: aqua;
+  color: #00ff04;
 }
 .heading{
 
